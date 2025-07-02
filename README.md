@@ -1,16 +1,14 @@
-# rawdrawandroidexample
+# QuestTables
 
-Example app using rawdrawandroid as a submodule.  Check out rawdrawandroid here:
+
+
+
+
+
+
+Check out rawdrawandroid here:
 
 https://github.com/cnlohr/rawdrawandroid
-
-Starting from no folder at all:
-```
-	# git submodule add https://github.com/cnlohr/rawdrawandroid
-	# git submodule update --init --recursive
-	# make my-release-key.keystore
-	# cp rawdrawandroid/AndroidManifest.xml .
-```
 
 Now, edit the `Makefile`, to mimic this and edit `AndroidManifest.xml` with your new project name.
 
